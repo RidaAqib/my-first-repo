@@ -3,7 +3,7 @@ body{
     text-align: center;       
 }
 #category{
-     background-image: url("./images/image2.jpg");
+     background-image: url("./image2.jpg");
     background-size: cover;
     padding: 10px 0 200px;
 }
