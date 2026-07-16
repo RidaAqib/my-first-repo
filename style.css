@@ -1,0 +1,42 @@
+body{
+     margin: 0;
+    text-align: center;       
+}
+#category{
+     background-image: url("images/image2.jpg");
+    background-size: cover;
+    padding: 10px 0 200px;
+}
+.hed{
+    font-size: 40px;
+    letter-spacing: 4px;
+}
+.btn{
+    border-radius: 10px 20px;
+    padding: 5px 20px;   
+}
+.heading{
+font-size: 40px;
+font-style: oblique;
+padding-top: 0%;
+font-variation-settings: initial;
+color: palevioletred;
+}
+.click{
+    color: rgb(234, 80, 131);
+}
+.underline{
+    border-bottom: 3px solid rgb(130, 43, 72);
+}
+#mainlogo{
+    width: 80px;   
+}
+.pics{
+    display: flex;
+    justify-content: space-around;
+    block-size: 500px;    
+}
+.name{
+    display: flex;
+    justify-content: space-around;   
+}
